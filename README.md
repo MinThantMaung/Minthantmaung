@@ -1,79 +1,97 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=minthantmaung.minthantmaung" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Min+Thant+Maung!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+YOUR+NAME!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Myanmar 🇲🇲</h3>
+<h3 align="center">A passionate Frontend Developer based in Japan 🇯🇵</h3>
 
-<br/>
+---
 
-<div align="center">
- 
- 🔭 I’m currently **relocating to Japan 🇯🇵**
- 
- 🌱 I’m currently learning **Redux, advanced React patterns**
+## 🚀 About Me
 
-💬 Ask me about **React, JavaScript, TypeScript or anything**
+- 🔭 I’m currently learning **Redux, TypeScript, and Node.js**
+- 🌱 Focusing on **React | Next.js | Swift | AWS**
+- 💬 Ask me about **React, Next.js, JavaScript, Node.js**
+- ⚡ Fun fact: I love clean UI & animation ✨
 
-</div>
+---
 
-<br/>
+## 🛠️ Tech Stack
 
-<div align="center"> 
-  <a href="mailto:minthantmg169@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/min-thant-maung-2620411b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://minthantmgdev.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-</div>
-
-<hr/>
-
-<h2 align="center">🏆 GitHub Trophy 🏆</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minthantmaung&theme=onedark&column=6" />
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,vite" />
 </p>
 
-<hr/>
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,graphql" />
+</p>
 
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
+### **Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,java,kotlin" />
+</p>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,postman,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,nextjs,firebase,mongodb,java,kotlin,mysql" />
-</div>
+### **Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
 
-<hr/>
+### **DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel,postman" />
+</p>
 
-<h2 align="center">🐍 Contribution Snake 🐍</h2>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minthantmaung&theme=react-dark&hide_border=true&area=true" />
-  <br/><br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/minthantmaung/minthantmaung/output/github-contribution-grid-snake.svg" />
-</div>
+## 🔥 Featured Projects
 
-<hr/>
+### 🎬 **YTS Movie Clone**
+A modern movie browsing web app with fast UI.  
+🔗 https://yts-clone-sigma.vercel.app
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+### 📦 **MovieDB Dashboard**
+Admin dashboard using TMDB API.  
+🔗 https://moviedb-dashboard.vercel.app
 
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=minthantmaung&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+### 📮 **Myanmar Postal Code Finder**
+Fast postal code search app.  
+🔗 https://myanmar-postal-code-seven.vercel.app
 
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=minthantmaung&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
+---
 
-  <br/>
+## 📊 GitHub Stats
 
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=minthantmaung&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-</div>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=minthantmaung&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minthantmaung&layout=compact&theme=radical" />
+</p>
 
-<br/><br/>
+---
 
-<hr/>
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=minthantmaung&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
+---
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="mailto:minthantmg169@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/min-thant-maung-2620411b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://minthantmgdev.vercel.app/en">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
