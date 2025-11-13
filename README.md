@@ -52,13 +52,9 @@
 A modern movie browsing web app with fast UI.  
 🔗 https://yts-clone-sigma.vercel.app
 
-### 📦 **MovieDB Dashboard**
-Admin dashboard using TMDB API.  
-🔗 https://moviedb-dashboard.vercel.app
-
 ### 📮 **Myanmar Postal Code Finder**
 Fast postal code search app.  
-🔗 https://myanmar-postal-code-seven.vercel.app
+🔗 https://postalcode-myanmar.vercel.app/
 
 ---
 
