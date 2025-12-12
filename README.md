@@ -58,24 +58,6 @@ Fast postal code search app.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150"
-       src="https://github-readme-stats.vercel.app/api?username=minthantmaung&show_icons=true&theme=radical&cache_seconds=1800&v=1" />
-  <img height="150"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=minthantmaung&layout=compact&theme=radical&cache_seconds=1800&v=1" />
-</p>
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=minthantmaung&theme=radical&no-frame=true&no-bg=true&margin-w=4&v=1" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 <p align="left">
